@@ -28,7 +28,7 @@ Skills : REACT / JS / HTML / CSS / NODE JS / MONGODB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaAnika)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ☕ Connect with me!
-  <a href="https://www.facebook.com/binate.haruna" target="blank"><img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'></a>
+  <a href="https://www.facebook.com/binate.haruna" target="_blank"><img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'></a>
    
   [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/mdjaed38/)  
   [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/HabibaAnik65452)  
