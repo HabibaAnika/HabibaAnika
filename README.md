@@ -28,13 +28,21 @@ Skills : REACT / JS / HTML / CSS / NODE JS / MONGODB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaAnika)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ☕ Connect with me!
- <p>
-    [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>] 
- (https://www.facebook.com/binate.haruna/) 
-  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/mdjaed38/)  
-  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/HabibaAnik65452)  
-  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](www.linkedin.com/in/habibasultana49)
- </p>
+<p>
+  <a href="https://www.facebook.com/binate.haruna/" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true" alt="facebook" height="40">
+  </a>
+  <a href="https://www.instagram.com/mdjaed38/" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true" alt="instagram" height="40">
+  </a>
+  <a href="https://x.com/HabibaAnik65452" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true" alt="twitter" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/habibasultana49" style="display: inline-block;">
+    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true" alt="linkedin" height="40">
+  </a>
+</p>
+
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
