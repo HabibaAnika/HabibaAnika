@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Habiba
-#### I am a web developer
 ![I am a web developer](https://ibb.co.com/34vjzV1)
+## Hi there 👋, my name is Habiba
+#### I am a web developer
+
 
 "I am a dedicated MERN Stack Developer with hands-on experience designing and building responsive, scalable, and dynamic web applications. Proficient in React.js, Node.js, MongoDB, and Express.js, I also bring expertise in front-end tools like Tailwind CSS and Bootstrap to create seamless and visually appealing user interfaces. Driven by a passion for delivering exceptional user experiences, I am committed to continuous learning and staying ahead of the curve with the latest technologies."
 
