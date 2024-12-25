@@ -1,6 +1,6 @@
 
 ## Hi there 👋, It's me Habiba
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+[<img src='https://pbs.twimg.com/profile_banners/1776478013720551425/1735149526/1500x500' alt='Habiba'>](https://github.com/HabibaAnika)
 
 <p>
 👑 I am Web Developer <br> 
