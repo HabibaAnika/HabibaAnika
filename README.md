@@ -11,7 +11,7 @@
 😄 Pronouns: she/her 
 </p> 
 
-<p align="left"> <a href="https://x.com/HabibaAnik65452" target="blank"><img src="https://img.shields.io/twitter/follow/Habiba Sultanalogo=twitter&style=for-the-badge" alt="@HabibaAnik65452" /></a> </p>
+<p align="left"> <a href="https://x.com/HabibaAnik65452" target="blank"><img src="https://img.shields.io/twitter/follow/HabibaSultanalogo=twitter&style=for-the-badge" alt="@HabibaAnik65452" /></a> </p>
 
 ## 🚀 About Me <hr/>
 "I am a dedicated MERN Stack Developer with hands-on experience designing and building responsive, scalable, and dynamic web applications. Proficient in React.js, Node.js, MongoDB, and Express.js, I also bring expertise in front-end tools like Tailwind CSS and Bootstrap to create seamless and visually appealing user interfaces. Driven by a passion for delivering exceptional user experiences, I am committed to continuous learning and staying ahead of the curve with the latest technologies."
